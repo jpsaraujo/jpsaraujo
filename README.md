@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="http://images.uncyc.org/pt/thumb/f/f4/Brincantedoforro.gif/300px-Brincantedoforro.gif" />
+  <img src="https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif?resize=280%2C160&ssl=1" />
+  
+  
+  <img src="https://c.tenor.com/kkPUg9dL7E4AAAAM/work-quit.gif" />
+
+ 
 </p>
 
 
