@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="http://images.uncyc.org/pt/thumb/f/f4/Brincantedoforro.gif/300px-Brincantedoforro.gif" />
+</p>
+
+
 <h1 align="center">  👋  Olá eu sou o João Pedro Araujo </h1>
 <p align="center">amante de dados e tecnologia.</p>
 
