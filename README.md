@@ -2,7 +2,7 @@
   <img src="https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif?resize=280%2C160&ssl=1" />
   
   
-  <img height="160" width="240" src="https://c.tenor.com/kkPUg9dL7E4AAAAM/work-quit.gif" />
+ 
 
  
 </p>
